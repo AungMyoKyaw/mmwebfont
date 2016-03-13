@@ -1,0 +1,8 @@
+@font-face{ 
+	font-family: 'masterpieceuniround-webfont';
+	src: url('http://mmwebfont.aungmyokyaw.com/font/master-piece-uni-round/masterpieceuniround-webfont.eot');
+	src: url('http://mmwebfont.aungmyokyaw.com/font/master-piece-uni-round/masterpieceuniround-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('http://mmwebfont.aungmyokyaw.com/font/master-piece-uni-round/masterpieceuniround-webfont.woff') format('woff'),
+	     url('http://mmwebfont.aungmyokyaw.com/font/master-piece-uni-round/masterpieceuniround-webfont.ttf') format('truetype'),
+	     url('http://mmwebfont.aungmyokyaw.com/font/master-piece-uni-round/masterpieceuniround-webfont.svg#webfont') format('svg');
+}
